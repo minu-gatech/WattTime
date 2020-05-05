@@ -1,0 +1,50 @@
+unit_id_platts,plant_id_gppd,plant_name_platts,plant_name_gppd,country_long_gppd,unit_fuel_platts,plant_primary_fuel_gppd
+1160681,WRI1002205,AALST SYRAL,Aalst Syral ST,Belgium,GAS,Gas
+1174676,WRI1002205,AALST SYRAL,Aalst Syral ST,Belgium,WSTH,Gas
+1101628,WRI1002205,AALST,Aalst Syral ST,Belgium,COAL,Gas
+1101629,WRI1002205,AALST,Aalst Syral ST,Belgium,GAS,Gas
+1296059,WRI1024142,ABLAINCOURT-PRESSOIR,Ablaincourt-Pressoir,France,WIND,Wind
+1165660,WRI1075858,AES GALABOVO,AES Galabovo,Bulgaria,COAL,Coal
+1165089,WRI1075858,AES GALABOVO,AES Galabovo,Bulgaria,COAL,Coal
+1100564,WRI1002814,AGHADA,Aghada CCGT,Ireland,GAS,Gas
+1100568,WRI1002814,AGHADA,Aghada CCGT,Ireland,GAS,Gas
+1100565,WRI1002814,AGHADA,Aghada CCGT,Ireland,GAS,Gas
+1100566,WRI1002814,AGHADA,Aghada CCGT,Ireland,GAS,Gas
+1100567,WRI1002814,AGHADA,Aghada CCGT,Ireland,GAS,Gas
+1100571,WRI1026612,AGIA,Panagia Solar Power Plant,Greece,WAT,Solar
+1255311,WRI1023966,AIRAINES,Quesnoy-sur-Airaines,France,WIND,Wind
+1241239,WRI1002997,AL,Alta krv,Norway,WAT,Hydro
+1241239,WRI1003116,AL,Fall,Norway,WAT,Hydro
+1241239,WRI1003446,AL,Rendal 2,Norway,WAT,Hydro
+1101356,WRI1024790,ALBI,Albi,France,COAL,Solar
+1101356,WRI1025181,ALBI,Albias,France,COAL,Solar
+1257171,WRI1024225,ALES,Noyales,France,SUN,Wind
+1285161,WRI1030247,ALITZHEIM,Alitzheim Solar Power Plant,Germany,SUN,Solar
+1273600,WRI1006460,ALLO,ENERGYWORKS CARBALLO  S.L.,Spain,WAT,Oil
+1165306,WRI1006957,ALOS,P.E. CAMPISABALOS,Spain,WAT,Wind
+1229530,WRI1006957,ALOS,P.E. CAMPISABALOS,Spain,WAT,Wind
+1283362,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,GAS,Gas
+1101686,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,OIL,Gas
+1101685,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,OIL,Gas
+1274344,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,OIL,Gas
+1101689,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,GAS,Gas
+1101684,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,COAL,Gas
+1101688,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,COAL,Gas
+1101680,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,COAL,Gas
+1101681,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,COAL,Gas
+1101682,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,COAL,Gas
+1101683,WRI1005738,ALTBACH,Heizkraftwerk Altbach/Deizisau (Natural Gas),Germany,GAS,Gas
+1101718,WRI1005773,ALTENSTADT,HKW Altenstadt,Germany,WAT,Biomass
+1218784,WRI1029995,AMAGER,Amager,Denmark,COAL,Geothermal
+1218784,WRI1022036,AMAGER,Amager power station,Denmark,COAL,Coal
+1101821,WRI1029995,AMAGER,Amager,Denmark,BIOMASS,Geothermal
+1101821,WRI1022036,AMAGER,Amager power station,Denmark,BIOMASS,Coal
+1101822,WRI1029995,AMAGER,Amager,Denmark,BIOMASS,Geothermal
+1101822,WRI1022036,AMAGER,Amager power station,Denmark,BIOMASS,Coal
+1101823,WRI1029995,AMAGER,Amager,Denmark,COAL,Geothermal
+1101823,WRI1022036,AMAGER,Amager power station,Denmark,COAL,Coal
+1268035,WRI1029995,AMAGER,Amager,Denmark,WOOD,Geothermal
+1268035,WRI1022036,AMAGER,Amager power station,Denmark,WOOD,Coal
+1101880,WRI1025511,AMBERT,Saint-Rambert-d'Albon,France,WAT,Solar
+1240549,WRI1026401,AMON,Chiaramonte Gulfi Solar Power Plant,Italy,SUN,Solar
+1240914,WRI1025884,AMSDORF,Solarpark Amsdorf,Germany,SUN,Solar
